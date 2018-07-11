@@ -6,5 +6,3 @@ levitation_force = 6
 	levitaion_force += 1 
 	end
 end
-
-
